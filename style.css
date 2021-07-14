@@ -1,7 +1,7 @@
 :root{
-    --bg1 : #9b59b6;
-    --bg2 : #3494db;
-    --bg3 : #07E1EC;
+    --bg1 : #ccccff;
+    --bg2 : #99ccff;
+    --bg3 : #999999;
 }
 * {
     margin: 0;
